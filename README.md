@@ -2,6 +2,9 @@
 
 ## General
 
+Please submit your results to 
+juan.r@solaredge.com, tzachi.s@solaredge.com, noy.y@solaredge.com
+
 https://github.com/jjroldan1/12022025-kamatech-day/
 
 In your assignment today, you have two mandatory exercises. An additional optional exercise is provided.
