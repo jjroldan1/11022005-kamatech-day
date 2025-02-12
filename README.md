@@ -2,6 +2,8 @@
 
 ## General
 
+https://github.com/jjroldan1/12022025-kamatech-day/
+
 In your assignment today, you have two mandatory exercises. An additional optional exercise is provided.
 
 **Tackle the mandatory tasks first**. Once you are satisfied with your solution, you may continue to the optional exercise. Completing the optional exercise will provide you additional points.
