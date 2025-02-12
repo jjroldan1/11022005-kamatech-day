@@ -3,7 +3,6 @@
 ## General
 
 Please submit your results to 
-juan.r@solaredge.com, tzachi.s@solaredge.com, noy.y@solaredge.com
 
 jjroldan@gmail.com, tstrugo@gmail.com, noy.yukler@gmail.com
 
